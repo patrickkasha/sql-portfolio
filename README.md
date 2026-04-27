@@ -12,10 +12,10 @@ Database Structure.
 
 The project is based on four primary tables:
 
-* **customers: stores customer data (name, country)
+* customers: stores customer data (name, country)
 * orders- includes order transactions (date, total amount)
 * products - product contents (type, cost)
-* **order items, order items connect orders and products in quantities.
+* order items, order items connect orders and products in quantities.
 
 
 
