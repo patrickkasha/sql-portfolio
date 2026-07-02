@@ -101,5 +101,5 @@ Write effective SQL queries.
 
 Author
 
-**Patrick Kasha**
+Patrick Kasha
 Aspiring Data Analyst | SQL | Excel
